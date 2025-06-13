@@ -8,14 +8,14 @@ const databasePath = path.join(__dirname, './database.db');
 const DATABASE_URL = process.env.DATABASE_URL === undefined
     ? databasePath
     : process.env.DATABASE_URL;
-module.exports = { session: process.env.SESSION_ID || '',
+module.exports = { session: process.env.SESSION_ID || 'HansTz&u1JFwA6I#I1257XYQFwX1SHw0715EKbKlgAZdvNK0NBQ9f5nKPyI',
     PREFIXE: process.env.PREFIX || ".",
-    OWNER_NAME: process.env.OWNER_NAME || "HANS-XMD",
-    NUMERO_OWNER : process.env.NUMERO_OWNER || " 263717087382",              
+    OWNER_NAME: process.env.OWNER_NAME || "WHYAFTAB",
+    NUMERO_OWNER : process.env.NUMERO_OWNER || " 923103278551",              
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "yes",
     AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'no',
-    BOT : process.env.BOT_NAME || 'HANS-XMD',
-    URL : process.env.BOT_MENU_LINKS || 'https://files.catbox.moe/mn835l.jpg',
+    BOT : process.env.BOT_NAME || 'SAHIL MD',
+    URL : process.env.BOT_MENU_LINKS || 'https://files.catbox.moe/bbz4xm.jpg',
     MODE: process.env.PUBLIC_MODE || "yes",
     PM_PERMIT: process.env.PM_PERMIT || 'yes',
     HEROKU_APP_NAME : process.env.HEROKU_APP_NAME,
