@@ -1,9 +1,9 @@
 
 {
   
-  "name": "HANS-XMD_V3",
+  "name": "SAHIL MD",
   "description": "Best Whatsapp bot made by Hans Tz",
-  "logo":"https://files.catbox.moe/1mdmlu.jpg",
+  "logo":"https://files.catbox.moe/bbz4xm.jpg",
   "keywords": [
     "whatsapp bot"
   ],
@@ -62,13 +62,13 @@
       "url": "heroku/nodejs"
     },
     {
-      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
+      "url": ""
     },
     {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+      "url": ""
     },
     {
-      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+      "url": ""
     }
   ]
 }
